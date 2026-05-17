@@ -24,3 +24,8 @@ Get-Process Codex,codex -ErrorAction SilentlyContinue | Stop-Process
 
 ## SSH-Win-raspberry-pi-mount-guide.md
   这是SSHFS-Win 挂载树莓派目录的实践方法，后续直接丢给workbuddy就行
+
+## raspberry-pi-static-ip.md
+  这个文件的内容是帮我把树莓派的ip地址固定下来
+  
+
